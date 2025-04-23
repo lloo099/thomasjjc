@@ -1,5 +1,4 @@
-# 👨‍💻 Jiajun (Thomas) Zhou
-
+# ♚ AI Researcher 
 #### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, LLM Optimization, and Hardware-Aware Training
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
@@ -66,7 +65,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ---
 ## 🚀 Research Highlights
-
+Machine learning and systems, with a focus on efficient training and inference:
 - **Efficient LLM Fine-Tuning**: Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
 - **Hardware-Aware ML**: Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
 - **Cross-Layer Co-Design**: Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
@@ -76,7 +75,13 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ## 📷 Fun Fact
 
-I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient transformer models, squeezing memory on an edge chip, or analyzing training curves by RLHF/DPO/PPO.
+I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient transformer models, squeezing memory on an edge chip, or analyzing RLHF/DPO training ability.
+
+---
+
+## 🤝 Academic + Web3
+
+I'm passionate about bridging academia and decentralized technology—whether it’s co-authoring papers on efficient LLM training, collaborating with global research labs, or exploring *Web3* infrastructure projects that bring AI investment and intelligent agents on-chain.
 
 ---
 
