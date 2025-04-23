@@ -51,7 +51,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ## 🧠 Selected Publications
 
-1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _ACL 2025 (Under Review)_  
+1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _(Under Review)_  
 2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL 2024 (Spotlight Paper)_  
 3. **DyBit: Dynamic Bit-Precision Inference** – _IEEE TCAD 2023_  
 4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
