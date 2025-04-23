@@ -4,7 +4,7 @@
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 📫 zhoutomas177@gmail.com/ryjjc@connect.hku.hk | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
-
+---
 
 
 ## 🎓 Education
@@ -76,7 +76,9 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ## 📷 Fun Fact
 
-I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient transformer models, squeezing memory on an edge chip, or analyzing training curves in VS Code.
+I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient transformer models, squeezing memory on an edge chip, or analyzing training curves by RLHF/DPO/PPO.
+
+---
 
 #### 🔧 Technical Skills
 **Languages:** Python, C/C++, MATLAB, Verilog  
