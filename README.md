@@ -16,7 +16,7 @@
 - Publications in ACL, NAACL, FCCM, TCAD
 
 **M.S., in IC Design, Hong Kong University of Science and Technology (December 2019)**  
-- GPA: 3.7  
+- Advisor: Prof. Mansun
 - Coursework in VLSI Design, Embedded Systems, Semiconductor Devices
 
 **B.Eng., in IC Design, National Huaqiao University (June 2018)**  
