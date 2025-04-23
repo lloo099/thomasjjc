@@ -15,11 +15,11 @@
 - Supervised by Prof. Ngai Wong  
 - Publications in ACL, NAACL, FCCM, TCAD
 
-**M.S., in IC Design, Hong Kong University of Science and Technology (December 2019)**  
+**M.S., IC Design | HKUST (December 2019)**  
 - Advisor: Prof. Mansun
-- Coursework in VLSI Design, Embedded Systems, Semiconductor Devices
+- Focus: VLSI Design, Embedded Systems, Semiconductor Devices
 
-**B.Eng., in IC Design, National Huaqiao University (June 2018)**  
+**B.Eng., IC Design | National Huaqiao University (June 2018)**  
 - Multiple scholarships and an exchange student experience in Taiwan
 
 ---
