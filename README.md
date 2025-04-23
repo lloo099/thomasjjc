@@ -27,6 +27,10 @@
 
 ## 💼 Experience
 
+### **Research Intern @ Samsung Research America**
+_May. 2025 – Present_  
+- On-device LLM framework
+
 ### **Research Associate @ UCSB**
 _Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
