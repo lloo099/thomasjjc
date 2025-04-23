@@ -84,3 +84,5 @@ I enjoy exploring the intersection of **AI algorithms and hardware**—whether i
 **Languages:** Python, C/C++, MATLAB, Verilog  
 **Frameworks & Platforms:** PyTorch, TensorFlow (incl. Lite & Keras), OpenMP, CUDA, Caffe  
 **Tools:** Cadence, Xilinx Vivado & ISE, HSpice, Modelsim, VS Code  
+
+![Visitor Map](https://clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=aGxQ8A_U40NaxF2z4ZaTII6flntLGJ5FUdm1qVRj-9g&co=ffffff&ct=808080)
