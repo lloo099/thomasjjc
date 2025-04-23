@@ -46,7 +46,7 @@ _Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_
 
 ### **Research Assistant @ CUHK** 
 _Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
-- Co-designed FPGA-GPU hybrid acceleration schemes (40% better deadline adherence)  
+- Co-designed FPGA-GPU hybrid acceleration schemes 
 - Led NFC wireless charging system project from concept to prototype  
 
 ### **Mixed-Signal IC Design Engineer @ ASTRI** 
