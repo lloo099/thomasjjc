@@ -8,31 +8,34 @@
 
 ## 🎓 Education
 
-**The University of Hong Kong (HKU) — _Ph.D. in Electrical and Electronic Engineering (2022 - Present)**
+**Ph.D., EEE | The University of Hong Kong (December 2025)**
 - Focus: Efficient LLM training/inference, quantization, reasoning, and edge deployment  
 - Supervised by Prof. Ngai Wong  
 - Publications in ACL, NAACL, FCCM, TCAD
 
-**Hong Kong University of Science and Technology (HKUST) — _M.S. in IC Design Engineering_(2018 – 2019)**  
+**M.S., in IC Design, Hong Kong University of Science and Technology (December 2019)**  
 - GPA: 3.7  
 - Coursework in VLSI Design, Embedded Systems, Semiconductor Devices
 
-**National Huaqiao University — _B.Eng. in Integrated Circuit Design_(2014 – 2018)**  
-- Multiple scholarships and an exchange student experience at Taiwan
+**B.Eng., in IC Design, National Huaqiao University (June 2018)**  
+- Multiple scholarships and an exchange student experience in Taiwan
 
 
 ## 💼 Experience
 
-### **Research Associate @ UCSB**_Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_  
+### **Research Associate @ UCSB**
+_Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
 - Collaborated with Amazon AGI team on scalable training paradigms  
 - **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines  
 
-### **Research Assistant @ CUHK** _Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
+### **Research Assistant @ CUHK** 
+_Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
 - Co-designed FPGA-GPU hybrid acceleration schemes (40% better deadline adherence)  
 - Led NFC wireless charging system project from concept to prototype  
 
-### **Mixed-Signal IC Design Engineer @ ASTRI** _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_  
+### **Mixed-Signal IC Design Engineer @ ASTRI** 
+_Sep. 2019 – Mar. 2021 | Technology Co-Design Group_  
 - Designed key analog IPs, including ADCs, comparators,and  amplifiers  
 - Delivered taped-out chip with 10-bit ADC and PMU subsystems
 
