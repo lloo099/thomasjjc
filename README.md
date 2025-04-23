@@ -21,6 +21,8 @@
 **B.Eng., in IC Design, National Huaqiao University (June 2018)**  
 - Multiple scholarships and an exchange student experience in Taiwan
 
+---
+
 
 ## 🚀 Research Highlights
 **Efficient LLM Fine-Tuning**: 
@@ -31,6 +33,8 @@
 
 **Cross-Layer Co-Design**: 
 - Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
+
+---
 
 ## 💼 Experience
 
