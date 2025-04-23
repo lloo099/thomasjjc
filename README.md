@@ -1,20 +1,21 @@
-# Data Scientist
+# HKU Ph.D. Student | UCSB Research Scholar
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Electrical and Electronic Engineering | The University of Hong Kong  (_2022-2025_)								       		
+- M.S., Science in IC Design Engineering	| The Hong Kong University of Science and Technology  (_2018-2019_)	 			        		
+- B.S.,  Engineering in Integrated Circuit Design and Integrated System | National Huaqiao University (_2014-2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+### Research & Working Experience
+**UC Santa Barbara Visiting Scholar, Department of Electrical and Computer Engineering, Santa Barbara, USA
+Sept. 2023–now**
+- Investigated low-bit optimization and quantized training techniques, integrating gradient quantization and LoRA
+adaptation to push the boundary of memory-efficient LLM fine-tuning.
+- Collaborated with the Amazon AGI team, contributed to the intersection of AI algorithm design and hardware-efficient
+training, paving the way for scalable LLM fine-tuning methodologies.
+- Published at NAACL 2024 (Spotlight Paper), demonstrating superior scalability compared to existing
+parameter-efficient tuning approaches.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
