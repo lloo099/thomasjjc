@@ -2,6 +2,7 @@
 
 #### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, LLM Optimization, and Hardware-Aware Training
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
+
 📫 zhoutomas177@gmail.com/ryjjc@connect.hku.hk | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
 ---
@@ -23,18 +24,6 @@
 
 ---
 
-
-## 🚀 Research Highlights
-**Efficient LLM Fine-Tuning**: 
-- Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies.
-
-**Hardware-Aware ML**: 
-- Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
-
-**Cross-Layer Co-Design**: 
-- Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
-
----
 
 ## 💼 Experience
 
@@ -72,7 +61,15 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
 
 ---
+## 🚀 Research Highlights
+**Efficient LLM Fine-Tuning**: 
+- Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies.
+**Hardware-Aware ML**: 
+- Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
+**Cross-Layer Co-Design**: 
+- Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
 
+---
 
 
 ## 📷 Fun Fact
