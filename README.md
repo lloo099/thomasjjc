@@ -70,6 +70,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 10. **Memristor-Based CNN Acceleration** – _ASICON 2023_
 
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
+
 ---
 
 
