@@ -1,7 +1,7 @@
 # 👨‍💻 Jiajun (Thomas) Zhou
 
 #### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, LLM Optimization, and Hardware-Aware Training
-- 📫 zhoutomas177@gmail.com | [LinkedIn](https://linkedin.com/in/jiajun-thomas-c-38a22bb2)
+- 📫 zhoutomas177@gmail.com | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
 
 
@@ -21,12 +21,22 @@
 - Multiple scholarships and an exchange student experience in Taiwan
 
 
+## 🚀 Research Highlights
+**Efficient LLM Fine-Tuning**: 
+- Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies.
+
+**Hardware-Aware ML**: 
+- Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
+
+**Cross-Layer Co-Design**: 
+- Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
+
 ## 💼 Experience
 
 ### **Research Associate @ UCSB**
 _Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
-- Collaborated with Amazon AGI team on scalable training paradigms  
+- Collaborated with the Amazon AGI team on scalable training paradigms  
 - **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines  
 
 ### **Research Assistant @ CUHK** 
@@ -36,7 +46,7 @@ _Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_
 
 ### **Mixed-Signal IC Design Engineer @ ASTRI** 
 _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_  
-- Designed key analog IPs, including ADCs, comparators,and  amplifiers  
+- Designed key analog IPs, including ADCs, comparators, and  amplifiers  
 - Delivered taped-out chip with 10-bit ADC and PMU subsystems
 
 ---
@@ -54,17 +64,9 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 9. **Lightweight CNNs from Tensor Perspective** – _ASICON 2023_  
 10. **Memristor-Based CNN Acceleration** – _ASICON 2023_
 
-📝 Full publication list on [Google Scholar](#) _(add link if available)_
-
+📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
 ---
 
-## 🚀 Research Highlights
-**Efficient LLM Fine-Tuning**: 
-Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies.
-**Hardware-Aware ML**: 
-Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
-**Cross-Layer Co-Design**: 
-Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
 
 
 ## 📷 Fun Fact
