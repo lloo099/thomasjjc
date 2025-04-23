@@ -1,8 +1,9 @@
-# ♚ AI Researcher 
+# 📰 AI Researcher 
 #### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, LLM Optimization, and Hardware-Aware Training
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
-📫 zhoutomas177@gmail.com/ryjjc@connect.hku.hk | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
+📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
+📫 ryjjc@connect.hku.hk
 
 ---
 
