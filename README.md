@@ -70,7 +70,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 Machine learning and systems, with a focus on efficient training and inference:
 - **Efficient LLM Fine-Tuning**: Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
 - **Hardware-Aware ML**: Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
-- **Cross-Layer Co-Design**: Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
+- **Algorithm/Hardware Co-Design**: Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
 
 ---
 
