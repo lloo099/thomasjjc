@@ -14,7 +14,7 @@
 **Ph.D., EEE | The University of Hong Kong (December 2025)**
 - Focus: Efficient LLM training/inference, quantization, reasoning, and edge deployment  
 - Supervised by Prof. Ngai Wong  
-- Publications in ACL, NAACL, FCCM, TCAD
+- Publications in NLP/FPGA-related conferences/Journal
 
 **M.S., IC Design | HKUST (December 2019)**  
 - Advisor: Prof. Mansun
@@ -33,7 +33,7 @@ _May. 2025 – Present_
 - On-device LLM framework
 
 ### **Research Associate @ UCSB**
-_Sept. 2023 – Present | Advisor: Prof. Zheng Zhang_  
+_Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
 - Collaborated with the Amazon AGI team on scalable training paradigms  
 - **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines  
@@ -81,9 +81,9 @@ I enjoy exploring the intersection of **AI algorithms and hardware**—whether i
 
 ---
 
-## 🤝 Academic + Web3
+## 🤝 Academic 
 
-I'm passionate about bridging academia and decentralized technology—whether it’s co-authoring papers on efficient LLM training, collaborating with global research labs, or exploring *Web3* infrastructure projects that bring AI investment and intelligent agents on-chain.
+I'm passionate about bridging academia and decentralized technology—whether it’s co-authoring papers on efficient LLM training, collaborating with global research labs, or exploring blockchain infrastructure projects that bring AI infrastructure and intelligent agents on-chain.
 
 ---
 
