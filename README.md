@@ -4,7 +4,7 @@
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
- ✉️ ryjjc@connect.hku.hk
+ ✉️ ryjjc@connect.hku.hk  | 📍 Mountain View, California (Now)
 
 ---
 
