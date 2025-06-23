@@ -53,15 +53,13 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 ## 🧠 Selected Publications
 
 1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _(Under Review)_  
-2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL 2024 (Spotlight Paper)_  
+2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL 2024 _  
 3. **DyBit: Dynamic Bit-Precision Inference** – _IEEE TCAD 2023_  
 4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
 5. **NoiseZO: RRAM-Driven ZO Optimization** – _DAC 2025_  
 6. **PECAN: Product-Quantized CAM Network** – _DATE 2023_  
 7. **Lite It Fly: All-Deformable Butterfly Network** – _TNNLS (in brief)_  
-8. **Reconfigurable PE for HPC** – _IEEE TCS-II, 2023_  
-9. **Lightweight CNNs from Tensor Perspective** – _ASICON 2023_  
-10. **Memristor-Based CNN Acceleration** – _ASICON 2023_
+
 
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
 
@@ -69,15 +67,15 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 ## 🚀 Research Highlights
 Machine learning and systems, with a focus on efficient training and inference:
 - **Efficient LLM Fine-Tuning**: Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
-- **Hardware-Aware ML**: Designed acceleration methods on FPGAs and analog-mixed chips for DNN inference and edge AI.
-- **Algorithm/Hardware Co-Design**: Collaborated on vertical-stack optimization across algorithms, model architectures, and hardware implementation.
+- **Hardware-Aware ML**: Designed acceleration methods on FPGAs and NPU chips for DNN inference and edge AI.
+- **Algorithm/Hardware Co-Design**: Collaborated on the hardware compiler optimization across algorithms and model simulator.
 
 ---
 
 
 ## 📷 Fun Fact
 
-I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient transformer models, squeezing memory on an edge chip, or analyzing RLHF/DPO training ability.
+I enjoy exploring the intersection of **AI algorithms and hardware**—whether it's crafting efficient LLM models, squeezing memory on an edge chip, or analyzing training efficiency.
 
 ---
 
@@ -89,7 +87,7 @@ I'm passionate about bridging academia and decentralized technology—whether it
 
 #### 🔧 Technical Skills
 **Languages:** Python, C/C++, MATLAB, Verilog  
-**Frameworks & Platforms:** PyTorch, TensorFlow (incl. Lite & Keras), OpenMP, CUDA, Caffe  
+**Frameworks & Platforms:** PyTorch, TensorFlow (incl. Lite & Keras), CUDA  
 **Tools:** Cadence, Xilinx Vivado & ISE, HSpice, Modelsim, VS Code  
 
 ![Visitor Map](https://clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=aGxQ8A_U40NaxF2z4ZaTII6flntLGJ5FUdm1qVRj-9g&co=ffffff&ct=808080)
