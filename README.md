@@ -4,7 +4,7 @@
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
- ✉️ ryjjc@connect.hku.hk  | 📍 Mountain View, California (Now)
+ ✉️ ryjjc@connect.hku.hk  | 📍 Hong Kong SAR (Now)
 
 ---
 
@@ -29,15 +29,18 @@
 ## 💼 Experience
 
 ### **Research Intern @ Samsung Research America**
-_May. 2025 – Present_  
+_May. 2025 – Aug. 2025_  
 - On-device LLM framework
+- Optimization for NPU arch
 
+  
 ### **Research Associate @ UCSB**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
 - Collaborated with the Amazon AGI team on scalable training paradigms  
-- **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines  
-
+- **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines (LoRETTA)
+- **EMNLP 2025 Main Conference Paper**: Low-bit BP-free Training (QuZO)
+  
 ### **Research Assistant @ CUHK** 
 _Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
 - Co-designed FPGA-GPU hybrid acceleration schemes 
@@ -52,7 +55,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ## 🧠 Selected Publications
 
-1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _(Under Review)_  
+1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _EMNLP 2025_  
 2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL 2024_  
 3. **DyBit: Dynamic Bit-Precision Inference** – _IEEE TCAD 2023_  
 4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
@@ -69,7 +72,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 Machine learning and systems, with a focus on efficient training and inference:
 - **Efficient LLM Fine-Tuning**: Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
 - **Hardware-Aware ML**: Designed acceleration methods on FPGAs and NPU chips for DNN inference and edge AI.
-- **Algorithm/Hardware Co-Design**: Collaborated on the hardware compiler optimization across algorithms and model simulator.
+- **Algorithm/Hardware Co-Design**: Collaborated on the hardware compiler optimization across algorithms and model simulators.
 
 ---
 
