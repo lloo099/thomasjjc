@@ -1,5 +1,5 @@
 # 📰 AI Researcher 
-#### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, LLM Optimization, and Hardware-Aware Training
+#### Ph.D. Student @ HKU | Research Associate @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
@@ -14,7 +14,6 @@
 **Ph.D., EEE | The University of Hong Kong (December 2025)**
 - Focus: Efficient LLM training/inference, quantization, reasoning, and edge deployment  
 - Supervised by Prof. Ngai Wong  
-- Publications in NLP/FPGA-related conferences/Journal
 
 **M.S., IC Design | HKUST (December 2019)**  
 - Advisor: Prof. Mansun
@@ -32,13 +31,13 @@
 _Sep. 2025 – Now_  
 - LLM Infra
 
-### **Research Intern @ Samsung Research America**
+### **Research Intern @ Samsung Research America, Mountain View**
 _May. 2025 – Aug. 2025_  
 - On-device LLM framework
 - Optimization for NPU arch
 
   
-### **Research Associate @ UCSB**
+### **Research Associate @ UCSB, Santa Barbara**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
 - Collaborated with the Amazon AGI team on scalable training paradigms  
@@ -89,7 +88,7 @@ I enjoy exploring the intersection of **AI algorithms and hardware**—whether i
 
 ## 🤝 Academic 
 
-I'm passionate about bridging academia and decentralized technology—whether it’s co-authoring papers on efficient LLM training, collaborating with global research labs, or exploring blockchain infrastructure projects that bring AI infrastructure and intelligent agents on-chain.
+I'm passionate about bridging academia and decentralized technology—whether it’s co-authoring papers on efficient LLM training, collaborating with global research labs, or exploring LLM infrastructure projects that bring AI infrastructure and intelligent agents on-chain.
 
 ---
 
