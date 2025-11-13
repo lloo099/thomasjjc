@@ -39,15 +39,14 @@ _May. 2025 – Aug. 2025_
   
 ### **Research Associate @ UCSB, Santa Barbara**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
-- Developed low-bit quantized fine-tuning techniques for LLMs (QuZO, LoRA variants)  
-- Collaborated with the Amazon AGI team on scalable training paradigms  
-- **NAACL 2024 Spotlight Paper**: Demonstrated high scalability vs. other tuning baselines (LoRETTA)
-- **EMNLP 2025 Main Conference Paper**: Low-bit BP-free Training (QuZO)
+- Developed efficient training techniques for LLMs 
+- Collaborated with the **Amazon AGI team** on scalable training paradigms  
+
   
 ### **Research Assistant @ CUHK** 
 _Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
-- Co-designed FPGA-GPU hybrid acceleration schemes 
-- Led NFC wireless charging system project from concept to prototype  
+- Heterogeneous computing: Co-designed FPGA-GPU acceleration schemes 
+- Led wireless charging system project from concept to prototype  
 
 ### **Mixed-Signal IC Design Engineer @ ASTRI** 
 _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_  
@@ -58,8 +57,8 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ## 🧠 Selected Publications
 
-1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _EMNLP 2025_  
-2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL 2024_  
+1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _EMNLP Main 2025_  
+2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL Spotlight 2024_  
 3. **DyBit: Dynamic Bit-Precision Inference** – _IEEE TCAD 2023_  
 4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
 5. **NoiseZO: RRAM-Driven ZO Optimization** – _DAC 2025_
