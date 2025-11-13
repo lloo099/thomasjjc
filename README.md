@@ -28,6 +28,10 @@
 
 ## 💼 Experience
 
+### **Research Intern @ HKRC**
+_Sep. 2025 – Now_  
+- LLM Infra
+
 ### **Research Intern @ Samsung Research America**
 _May. 2025 – Aug. 2025_  
 - On-device LLM framework
