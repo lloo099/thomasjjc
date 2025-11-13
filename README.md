@@ -64,8 +64,7 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
 5. **NoiseZO: RRAM-Driven ZO Optimization** – _DAC 2025_
 6. **HKLUT: Hundred-kilobyte lookup tables for Super-resolution** - _IJCAI 2024_
-7. **PECAN: Product-Quantized CAM Network** – _DATE 2023_  
-8. **Lite It Fly: All-Deformable Butterfly Network** – _TNNLS (in brief)_  
+7. **Lite It Fly: All-Deformable Butterfly Network** – _TNNLS (in brief)_  
 
 
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
