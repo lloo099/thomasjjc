@@ -1,4 +1,4 @@
-#  📰 (__) Researcher 
+#  📰 __ Researcher 
 #### Ph.D. Student @ HKU | Visiting Scholar @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
