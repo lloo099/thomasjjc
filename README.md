@@ -1,5 +1,6 @@
 #  📰 __ Researcher 
 #### Ph.D. Student @ HKU | Visiting Scholar @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
+<img src="/asset/img/llm.png" width="240">
 🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
@@ -10,7 +11,7 @@
 
 
 
-<img src="/asset/img/llm.png" width="240">
+
 
 ## 🎓 Education
 
