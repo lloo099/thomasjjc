@@ -7,6 +7,11 @@
 
  ✉️ ryjjc@connect.hku.hk  | 📍 Hong Kong SAR (Now)
 
+
+<p align="center">
+  <img src="/asset/img/llm.png" width="240">
+</p>
+
 ---
 
 
