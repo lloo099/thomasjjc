@@ -8,11 +8,9 @@
 
 ---
 
-<p align="center">
-  <img src="/asset/img/llm.png" width="160">
-</p>
 
 
+<img src="/asset/img/llm.png" width="120">
 
 ## 🎓 Education
 
