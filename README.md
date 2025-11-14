@@ -8,6 +8,8 @@
 
 ---
 
+![Research Pipeline](/asset/img/llm.png)
+
 
 ## 🎓 Education
 
