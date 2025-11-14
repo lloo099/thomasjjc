@@ -7,6 +7,7 @@
 
  ✉️ ryjjc@connect.hku.hk  | 📍 Hong Kong SAR (Now)
 
+**AI Pyramid** (as below): the layered ecosystem of artificial intelligence, progressing from chips at the base to applications and agents at the top. It highlights how each upper layer depends on the robustness of the lower level, forming a complete stack from silicon to intelligent systems.
 
 ![](/asset/img/llm.png)
 
