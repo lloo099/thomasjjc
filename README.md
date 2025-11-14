@@ -10,7 +10,7 @@
 
 
 
-<img src="/asset/img/llm.png" width="120">
+<img src="/asset/img/llm.png" width="240">
 
 ## 🎓 Education
 
