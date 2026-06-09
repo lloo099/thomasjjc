@@ -1,5 +1,5 @@
 #  📰 __ Researcher 
-#### Ph.D. @ HKU | Specializing in Efficient AI, System Co-Design, and LLM Training
+##### Ph.D. @ HKU | Specializing in Efficient AI, System Co-Design, and LLM Training
 
 
 
