@@ -1,5 +1,5 @@
 #  📰 __ Researcher 
-#### Ph.D. @ HKU | Visiting Scholar @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
+#### Ph.D. @ HKU | Specializing in Efficient AI, System Co-Design, and LLM Training
 
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
@@ -14,22 +14,6 @@
 
 
 
-
-
-## 🎓 Education
-
-**Ph.D., EEE | The University of Hong Kong (December 2025)**
-- Focus: Efficient LLM training/inference, quantization, reasoning, and edge deployment  
-- Supervised by Prof. Ngai Wong  
-
-**M.S., IC Design | HKUST (December 2019)**  
-- Advisor: Prof. Mansun
-- Focus: VLSI Design, Embedded Systems, Semiconductor Devices
-
-**B.Eng., IC Design | National Huaqiao University (June 2018)**  
-- Multiple scholarships and an exchange student experience in Taiwan
-
----
 
 
 ## 💼 Experience
@@ -52,17 +36,6 @@ _May. 2025 – Aug. 2025_
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed efficient training techniques for LLMs 
 - Collaborated with the **Amazon AGI team** on scalable training paradigms  
-
-  
-### **Research Assistant @ CUHK** 
-_Apr. 2021 – Dec. 2021 | Advisor: Prof. Guoliang Xing_  
-- Heterogeneous computing: Co-designed FPGA-GPU acceleration schemes 
-- Led wireless charging system project from concept to prototype  
-
-### **Mixed-Signal IC Design Engineer @ ASTRI** 
-_Sep. 2019 – Mar. 2021 | Technology Co-Design Group_  
-- Designed key analog IPs, including ADCs, comparators, and  amplifiers  
-- Delivered taped-out chip with 10-bit ADC and PMU subsystems
 
 ---
 
