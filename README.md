@@ -2,6 +2,11 @@
 #### Ph.D. @ HKU | Specializing in Efficient AI, System Co-Design, and LLM Training
 
 
+
+I am a research scientist at Huawei, working on LLM post-training. 
+
+Previously, I completed my PhD at HKU. Before that, I received my B.Eng./B.S. in IC Design from HQU/HKUST. I've interned/worked at UCSB and Samsung.
+
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
  ✉️ ryjjc@connect.hku.hk  | 📍 Hong Kong SAR (Now)
@@ -29,14 +34,11 @@ _Sep. 2025 – Feb. 2026_
 ### **Research Intern @ Samsung Research America, Mountain View**
 _May. 2025 – Aug. 2025_  
 - On-device LLM framework
-- Optimization for NPU arch
-
   
 ### **Research Associate @ UCSB, Santa Barbara**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed efficient training techniques for LLMs 
 - Collaborated with the **Amazon AGI team** on scalable training paradigms  
-
 ---
 
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
