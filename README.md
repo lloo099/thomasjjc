@@ -23,19 +23,19 @@ Previously, I completed my PhD at HKU. Before that, I received my B.Eng./B.S. in
 
 ## 💼 Experience
 
-### **Researcher @ Huawei Hong Kong Researcher Center**
+#### **Researcher @ Huawei Hong Kong Researcher Center**
 _May. 2025 – Now_  
 - LLM Training & RL framework
   
-### **Research Intern @ Huawei Hong Kong Researcher Center**
+#### **Research Intern @ Huawei Hong Kong Researcher Center**
 _Sep. 2025 – Feb. 2026_  
 - LLM Infra
 
-### **Research Intern @ Samsung Research America, Mountain View**
+#### **Research Intern @ Samsung Research America, Mountain View**
 _May. 2025 – Aug. 2025_  
 - On-device LLM framework
   
-### **Research Associate @ UCSB, Santa Barbara**
+#### **Research Associate @ UCSB, Santa Barbara**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed efficient training techniques for LLMs 
 - Collaborated with the **Amazon AGI team** on scalable training paradigms
