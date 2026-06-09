@@ -66,23 +66,12 @@ _Sep. 2019 – Mar. 2021 | Technology Co-Design Group_
 
 ---
 
-## 🧠 Selected Publications
-
-1. **QuZO: Quantized Zeroth-Order Fine-Tuning for LLMs** – _EMNLP Main 2025_  
-2. **LoRETTA: Tensor-Train Adaptation for LLMs** – _NAACL Spotlight 2024_  
-3. **DyBit: Dynamic Bit-Precision Inference** – _IEEE TCAD 2023_  
-4. **MSD: Mixing Signed Digits on FPGAs** – _FCCM 2023_  
-5. **NoiseZO: RRAM-Driven ZO Optimization** – _DAC 2025_
-6. **HKLUT: Hundred-kilobyte lookup tables for Super-resolution** - _IJCAI 2024_
-7. **Lite It Fly: All-Deformable Butterfly Network** – _TNNLS (in brief)_  
-
-
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
 
 ---
 ## 🚀 Research Highlights
 Machine learning and systems, with a focus on efficient training and inference:
-- **Efficient LLM Fine-Tuning**: Developed QuZO and LoRETTA frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
+- **Efficient LLM Fine-Tuning**: Developed low-bit frameworks to push the limit of parameter-efficient and quantized tuning strategies. 
 - **Hardware-Aware ML**: Designed acceleration methods on FPGAs and NPU chips for DNN inference and edge AI.
 - **Algorithm/Hardware Co-Design**: Collaborated on the hardware compiler optimization across algorithms and model simulators.
 
