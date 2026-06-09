@@ -1,7 +1,6 @@
 #  📰 __ Researcher 
-#### Ph.D. Student @ HKU | Visiting Scholar @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
+#### Ph.D. @ HKU | Visiting Scholar @ UCSB | Specializing in Efficient AI, System Co-Design, and LLM Training
 
-🚀 *Actively seeking full-time opportunities in AI research, ML systems, or hardware-software co-design starting in 2025/2026.*
 
  📫 zhoutomas177@gmail.com(Personal) | [LinkedIn](https://www.linkedin.com/in/jiajun-z-38a22bb2/)
 
@@ -35,8 +34,12 @@
 
 ## 💼 Experience
 
-### **Research Intern @ HKRC**
-_Sep. 2025 – Now_  
+### **Researcher @ Huawei Hong Kong Researcher Center**
+_May. 2025 – Now_  
+- LLM Training & RL framework
+  
+### **Research Intern @ Huawei Hong Kong Researcher Center**
+_Sep. 2025 – Feb. 2026_  
 - LLM Infra
 
 ### **Research Intern @ Samsung Research America, Mountain View**
