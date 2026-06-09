@@ -38,7 +38,8 @@ _May. 2025 – Aug. 2025_
 ### **Research Associate @ UCSB, Santa Barbara**
 _Sept. 2023 – Apr. 2025 | Advisor: Prof. Zheng Zhang_  
 - Developed efficient training techniques for LLMs 
-- Collaborated with the **Amazon AGI team** on scalable training paradigms  
+- Collaborated with the **Amazon AGI team** on scalable training paradigms
+
 ---
 
 📝 Full publication list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4KQ6SKUAAAAJ)
