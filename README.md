@@ -23,11 +23,11 @@ Previously, I completed my PhD at HKU. Before that, I received my B.Eng./B.S. in
 
 ## 💼 Experience
 
-#### **Researcher @ Huawei Hong Kong Researcher Center**
+#### **Researcher @ Huawei Hong Kong Research Center**
 _May. 2025 – Now_  
 - LLM Training & RL framework
   
-#### **Research Intern @ Huawei Hong Kong Researcher Center**
+#### **Research Intern @ Huawei Hong Kong Research Center**
 _Sep. 2025 – Feb. 2026_  
 - LLM Infra
 
